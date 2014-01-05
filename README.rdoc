@@ -1,6 +1,7 @@
 == README
 
-Simple blog application to learn high level RoR concepts and Twitter Bootstrap
+Simple blog application based on skillshare tutorial. 
+Did just enough to learn high level RoR concepts and practice using Twitter Bootstrap.
 
 
 This README would normally document whatever steps are necessary to get the
